@@ -1,5 +1,5 @@
 # Miembros
-
+* Scarlet Witch
 * Black panther
 * Black Widow
 * Capitán America
@@ -11,7 +11,6 @@
 * Iron Man
 * Luke Cage
 * QuickSilver
-* Scarlet Witch
 * Spider Woman
 * Thor
 * Vision
